@@ -1,0 +1,7 @@
+# Yarn configuration for SplitMacha
+
+# Save exact versions in package.json
+save-exact true
+
+# Ignore optional dependencies
+ignore-optional false
